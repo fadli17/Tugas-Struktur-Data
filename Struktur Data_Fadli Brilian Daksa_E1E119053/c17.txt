@@ -1,0 +1,1 @@
+Perintah berikut tidak akan berhasil. val adalah alias ke ata dan menugaskan objek baru ke dalamnya hanya akan mengubah nilai val.
